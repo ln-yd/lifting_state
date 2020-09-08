@@ -1,1 +1,1 @@
-#Lifting state, current message#
+# Lifting state, current message
